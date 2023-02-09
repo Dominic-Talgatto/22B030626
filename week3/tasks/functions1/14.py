@@ -1,0 +1,3 @@
+from funcf import *
+
+f()
